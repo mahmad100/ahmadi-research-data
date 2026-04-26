@@ -25,11 +25,5 @@ __pycache__/
 outputs/
 *.png
 
-# ── OS / editor / IDE config ──────────────────────────────────────────────────
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-.claude/
-*.swp
-*~
+# OS / editor configs are handled by the global excludes file
+# (see git config --global core.excludesfile)
