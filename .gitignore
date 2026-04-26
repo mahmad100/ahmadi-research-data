@@ -1,0 +1,35 @@
+# ── Private documents (drafts, write-ups, presentations) ──────────────────────
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+
+# ── Internal docs (brand guide, site structure, progress tracking) ────────────
+_private/
+
+# ── Private projects (not for public release) ────────────────────────────────
+blue-owl/
+
+# ── Per-folder drafts (use _drafts/ or _draft prefix inside any research folder)
+_drafts/
+_draft*
+
+# ── Python / Jupyter ──────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ── Chart outputs (regenerate from notebooks) ─────────────────────────────────
+outputs/
+*.png
+
+# ── OS / editor / IDE config ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+*.swp
+*~
