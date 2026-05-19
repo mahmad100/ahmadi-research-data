@@ -3,9 +3,8 @@
 Reproducible code for the Ahmadi Research blog post
 **[The Numb Market](https://ahmadiresearch.com/blog/numb-market/)** (unpublished draft).
 
-This notebook regenerates every chart in the post from publicly available primary sources.
-Every number is inline. Every source is hyperlinked at the bottom of the notebook and at the
-bottom of the post.
+This notebook regenerates every chart in the post from publicly available primary sources, with
+the data inline and the full source list at the bottom of the notebook.
 
 > "If someone with the same data can't get to the same conclusion, the analysis isn't done."
 > — [ahmadiresearch.com/approach](https://ahmadiresearch.com/approach.html)
@@ -15,13 +14,12 @@ bottom of the post.
 ## What's in here
 
 ```
-Numb_Market_Charts.ipynb   The notebook. Three charts, all data inline, every claim cited.
+Numb_Market_Charts.ipynb   The notebook: three charts, data inline.
 README.md                  This file.
 requirements.txt           Python dependencies. Standard scientific Python.
 ```
 
 The source research report (`The_Numb_Market_v2.docx`) is **not part of this package**.
-The blog post is the readable version of the analysis.
 
 ## Quickstart
 
@@ -38,7 +36,7 @@ pip install -r requirements.txt
 jupyter notebook Numb_Market_Charts.ipynb
 ```
 
-Run the cells top to bottom. Every chart in the live blog post comes from data in this notebook.
+Run the cells top to bottom.
 
 ## Charts reproduced
 
@@ -50,7 +48,7 @@ Run the cells top to bottom. Every chart in the live blog post comes from data i
 
 ## Things worth changing
 
-The point of publishing the data is so you can argue with it.
+Two data choices are open to substitution:
 - Monthly S&P 500 closes are end-of-month. Substitute the daily series if you want intra-month
   precision around the Liberation Day window.
 - UMich Current Conditions readings are monthly. For more granularity, swap in the Conference
@@ -58,8 +56,7 @@ The point of publishing the data is so you can argue with it.
 
 ## Sources
 
-Full numbered reference list lives in the final cell of the notebook and matches the citation
-numbers in the live blog post. Headline sources:
+The full numbered reference list is in the final cell of the notebook. Key sources:
 
 - S&P 500 closes and earnings: [CNBC](https://www.cnbc.com/2026/04/30/stock-market-today-live-updates.html);
   [FactSet Earnings Insight](https://insight.factset.com/sp-500-earnings-season-update-may-8-2026)
@@ -88,8 +85,8 @@ numbers in the live blog post. Headline sources:
 ## License
 
 - Code (notebook): MIT
-- Data tables and prose: CC-BY-4.0 — attribute Mohammad Ahmadi / Ahmadi Research and link
-  back to [the blog post](https://ahmadiresearch.com/blog/numb-market/).
+- Data tables and prose: CC-BY-4.0, with attribution to Mohammad Ahmadi / Ahmadi Research and a
+  link back to [the blog post](https://ahmadiresearch.com/blog/numb-market/).
 
 The source research report is **not licensed for redistribution** and is not included here.
 
