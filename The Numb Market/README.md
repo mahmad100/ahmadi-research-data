@@ -1,7 +1,7 @@
 # The Numb Market — Companion Data
 
 Reproducible code for the Ahmadi Research blog post
-**[The Numb Market](https://ahmadiresearch.com/blog/numb-market/)** (unpublished draft).
+**[The Numb Market](https://ahmadiresearch.com/blog/numb-market/)**.
 
 This notebook regenerates every chart in the post from publicly available primary sources, with
 the data inline and the full source list at the bottom of the notebook.
