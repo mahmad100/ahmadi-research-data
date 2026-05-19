@@ -18,10 +18,6 @@ blue-owl/*
 _drafts/
 _draft*
 
-# ── Numb Market companion: kept local until the post is final and the site is
-#    back online (post unpublished; site offline). Do not commit this folder.
-The Numb Market/
-
 # ── Python / Jupyter ──────────────────────────────────────────────────────────
 __pycache__/
 *.pyc
