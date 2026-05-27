@@ -1,13 +1,13 @@
 # The Case for Regulating Private Credit: Companion Data
 
-Reproducible data and code for the Ahmadi Research thematic post
+Reproducible data and code for the Ahmadi Research deck
 **"The Case for Regulating Private Credit: Blue Owl, Broken Promises,
 and the $2.3 Trillion Gap"**
 
-- Live post: [ahmadiresearch.com/blog/regulating-private-credit/](https://ahmadiresearch.com/blog/regulating-private-credit/) (forthcoming)
+- Deck: [ahmadiresearch.com/papers/regulating-private-credit-apr2026.pdf](https://ahmadiresearch.com/papers/regulating-private-credit-apr2026.pdf)
 - Author: Mohammad Ahmadi
 
-This package lets anyone regenerate every chart in the post from cited sources,
+This package lets anyone regenerate every chart in the deck from cited sources,
 change the assumptions, and rerun.
 
 ---
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 jupyter notebook Blue_Owl_Charts.ipynb
 ```
 
-Run the cells top to bottom. Every chart in the live post comes from data
+Run the cells top to bottom. Every chart in the deck comes from data
 in this notebook.
 
 ## Charts reproduced
@@ -63,7 +63,7 @@ The full per-chart source map plus the curated bibliography live in
 
 ## Sources highlights
 
-The post leans on five categories of sources. The curated bibliography in
+The deck leans on five categories of sources. The curated bibliography in
 `Blue_Owl_Sources.ipynb` lists each one; load-bearing items include:
 
 - **Court decisions:** *NAPFM v. SEC*, No. 23-60471 (5th Cir., Jun 5, 2024).
@@ -102,7 +102,7 @@ Things worth toying with:
 
 - Code (notebooks): MIT
 - Data tables and prose: CC-BY-4.0. Attribute Mohammad Ahmadi / Ahmadi
-  Research and link back to the post.
+  Research and link back to the deck.
 
 ## Author
 
