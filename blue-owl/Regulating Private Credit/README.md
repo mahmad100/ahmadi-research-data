@@ -1,8 +1,8 @@
 # The Case for Regulating Private Credit: Companion Data
 
 Reproducible data and code for the Ahmadi Research thematic post
-**"The Case for Regulating Private Credit: How a $2.3 Trillion Industry
-Outgrew Its Oversight."**
+**"The Case for Regulating Private Credit: Blue Owl, Broken Promises,
+and the $2.3 Trillion Gap"**
 
 - Live post: [ahmadiresearch.com/blog/regulating-private-credit/](https://ahmadiresearch.com/blog/regulating-private-credit/) (forthcoming)
 - Author: Mohammad Ahmadi
