@@ -3,11 +3,6 @@
 Public companion to [ahmadiresearch.com](https://ahmadiresearch.com). Charts, notebooks,
 and data behind published research.
 
-> "If someone with the same data can't get to the same conclusion, the analysis isn't done."
-> — [ahmadiresearch.com/approach](https://ahmadiresearch.com/approach.html)
-
-The site publishes the analysis. This repo shows the work.
-
 ## Projects
 
 ```
@@ -17,6 +12,12 @@ iran-war/                          The Quiet Winners of the Iran War (March 2026
 One Country Too Many Nations/      One Country, Too Many Nations: What America Got Wrong
                                    in Afghanistan (April 2026)
                                    ahmadiresearch.com/blog/one-country-too-many-nations/
+
+The Numb Market/                   The Numb Market (May 2026)
+                                   ahmadiresearch.com/blog/numb-market/
+
+blue-owl/Regulating Private Credit/  The Case for Regulating Private Credit
+                                     ahmadiresearch.com/blog/regulating-private-credit/
 ```
 
 More folders will be added as new research is published.
@@ -38,7 +39,7 @@ jupyter notebook
 
 ## Tools
 
-Python 3, pandas, numpy, matplotlib, Jupyter. Off-the-shelf, no proprietary data.
+Python 3, pandas, numpy, matplotlib, Jupyter.
 
 ## What's not here
 

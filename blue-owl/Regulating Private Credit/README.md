@@ -8,10 +8,7 @@ Outgrew Its Oversight."**
 - Author: Mohammad Ahmadi
 
 This package lets anyone regenerate every chart in the post from cited sources,
-change the assumptions, and rerun. It exists because of the rule on the
-[Approach page](https://ahmadiresearch.com/approach.html):
-
-> "If someone with the same data can't get to the same conclusion, the analysis isn't done."
+change the assumptions, and rerun.
 
 ---
 
@@ -86,8 +83,7 @@ The post leans on five categories of sources. The curated bibliography in
 
 ## What you can change
 
-The point of publishing the data is so you can argue with it. Things worth
-toying with:
+Things worth toying with:
 
 - Platform-level AUM splits in Chart 7 (Credit / GPSC / Real Assets at Dec '23
   and Dec '25) are author estimates from disclosed segment data. Reconcile

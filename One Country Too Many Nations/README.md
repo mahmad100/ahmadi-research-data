@@ -4,10 +4,7 @@ Reproducible data and code for the Ahmadi Research blog post
 **["One Country, Too Many Nations: What America Got Wrong in Afghanistan"](https://ahmadiresearch.com/blog/one-country-too-many-nations/)**.
 
 This package lets anyone regenerate every chart in the post from cited sources, change the
-assumptions, and rerun. It exists because of the rule on the [Approach
-page](https://ahmadiresearch.com/approach.html):
-
-> "If someone with the same data can't get to the same conclusion, the analysis isn't done."
+assumptions, and rerun.
 
 ---
 
@@ -67,13 +64,13 @@ numbers in the live blog post. Highlights:
 
 ## What you can change
 
-The point of publishing the data is so you can argue with it. Things worth toying with:
+Things worth toying with:
 
 - The 2024-dollar adjustment on Afghanistan spend (currently ~+12% over the cumulative nominal
   total). A year-by-year deflation would be more precise.
 - Ethnic-composition shares (no national census since 1979; Minority Rights Group ranges differ
   from CIA Factbook ranges by a few points).
-- Federalism / stability scores in Chart 4 are author judgment on a 0–5 rubric. Argue with them.
+- Federalism / stability scores in Chart 4 are author judgment on a 0–5 rubric.
 - Whether Pakistan's $2.3T should be called Afghanistan's $2.3T, since Brown's number includes
   the Afghanistan/Pakistan war zone. The post uses Brown's framing.
 

@@ -6,9 +6,6 @@ Reproducible code for the Ahmadi Research blog post
 This notebook regenerates every chart in the post from publicly available primary sources, with
 the data inline and the full source list at the bottom of the notebook.
 
-> "If someone with the same data can't get to the same conclusion, the analysis isn't done."
-> — [ahmadiresearch.com/approach](https://ahmadiresearch.com/approach.html)
-
 ---
 
 ## What's in here
