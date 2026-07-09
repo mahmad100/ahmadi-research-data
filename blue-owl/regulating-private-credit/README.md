@@ -1,4 +1,4 @@
-# The Case for Regulating Private Credit: Companion Data
+# The Case for Regulating Private Credit
 
 Reproducible data and code for the Ahmadi Research deck
 **"The Case for Regulating Private Credit: Blue Owl, Broken Promises,

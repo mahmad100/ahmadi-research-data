@@ -1,4 +1,4 @@
-# The Unraveling Guarantee, Companion Data
+# The Unraveling Guarantee
 
 Reproducible data and code for the Ahmadi Research deck
 **"The Unraveling Guarantee: Has the U.S. Lost Its Exorbitant Privilege?"**

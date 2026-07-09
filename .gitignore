@@ -12,12 +12,23 @@ _private/
 # ── Private projects (not for public release) ────────────────────────────────
 # Ignore everything in blue-owl/, except the public companion folder for the post.
 blue-owl/*
-!blue-owl/Regulating Private Credit/
+!blue-owl/regulating-private-credit/
 
 # US Debt/ is the local working folder for The Unraveling Guarantee: raw
 # Part N notebooks, build scripts, scratch outputs, the original .docx
-# draft. Only the cleaned companion in "The Unraveling Guarantee/" ships.
+# draft. Only the cleaned companion in "the-unraveling-guarantee/" ships.
 US Debt/
+
+# _archive/ holds shelved working folders kept for future use (never
+# public). The GOOGL equity deep dive (Google Research/) was moved here
+# on 2026-07-08; the pre-model research arc is done, model build unstarted.
+_archive/
+
+# palantir-is-down/ is the companion for the PLTR scorecard blog post,
+# which is still a DRAFT (site offline). Kept local until the post is
+# finalized and the site republishes, then un-ignore and commit it
+# (same handling the Numb Market companion got during its draft phase).
+palantir-is-down/
 
 # ── Per-folder drafts (use _drafts/ or _draft prefix inside any research folder)
 _drafts/

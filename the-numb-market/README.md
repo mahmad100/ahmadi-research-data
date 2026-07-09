@@ -1,4 +1,4 @@
-# The Numb Market — Companion Data
+# The Numb Market
 
 Reproducible code for the Ahmadi Research blog post
 **[The Numb Market](https://ahmadiresearch.com/blog/numb-market/)**.

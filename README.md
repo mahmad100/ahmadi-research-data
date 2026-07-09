@@ -6,18 +6,23 @@ and data behind published research.
 ## Projects
 
 ```
+the-unraveling-guarantee/          The Unraveling Guarantee: Has the U.S. Lost Its
+                                   Exorbitant Privilege? (February 2026)
+                                   ahmadiresearch.com/papers/the-unraveling-guarantee-feb2026.pdf
+
 iran-war/                          The Quiet Winners of the Iran War (March 2026)
                                    ahmadiresearch.com/blog/iran-war/
 
-One Country Too Many Nations/      One Country, Too Many Nations: What America Got Wrong
+one-country-too-many-nations/      One Country, Too Many Nations: What America Got Wrong
                                    in Afghanistan (April 2026)
                                    ahmadiresearch.com/blog/one-country-too-many-nations/
 
-The Numb Market/                   The Numb Market (May 2026)
-                                   ahmadiresearch.com/blog/numb-market/
+blue-owl/regulating-private-credit/  The Case for Regulating Private Credit
+                                     (April 2026)
+                                     ahmadiresearch.com/papers/regulating-private-credit-apr2026.pdf
 
-blue-owl/Regulating Private Credit/  The Case for Regulating Private Credit
-                                     ahmadiresearch.com/blog/regulating-private-credit/
+the-numb-market/                   The Numb Market (May 2026)
+                                   ahmadiresearch.com/blog/numb-market/
 ```
 
 More folders will be added as new research is published.

@@ -1,4 +1,4 @@
-# One Country, Too Many Nations — Companion Data
+# One Country, Too Many Nations
 
 Reproducible data and code for the Ahmadi Research blog post
 **["One Country, Too Many Nations: What America Got Wrong in Afghanistan"](https://ahmadiresearch.com/blog/one-country-too-many-nations/)**.
