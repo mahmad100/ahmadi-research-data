@@ -19,10 +19,15 @@ blue-owl/*
 # draft. Only the cleaned companion in "the-unraveling-guarantee/" ships.
 US Debt/
 
-# _archive/ holds shelved working folders kept for future use (never
-# public). The GOOGL equity deep dive (Google Research/) was moved here
-# on 2026-07-08; the pre-model research arc is done, model build unstarted.
+# _archive/ holds shelved working folders kept for future use (never public).
+# Currently empty.
 _archive/
+
+# google-research/ is the local working folder for the GOOGL equity deep dive.
+# Shelved to _archive/ on 2026-07-08, reactivated 2026-09-10 to build the
+# three-statement model and DCF. Same convention as "US Debt/": the working
+# folder stays local, only a cleaned companion ships at publish.
+google-research/
 
 # ── Per-folder drafts (use _drafts/ or _draft prefix inside any research folder)
 _drafts/

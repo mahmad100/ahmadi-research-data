@@ -76,4 +76,4 @@ The full numbered reference list is in the final cell of the notebook. Key sourc
 Mohammad Ahmadi
 [ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
 
-*Nothing here is investment advice.*
+Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

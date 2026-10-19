@@ -86,3 +86,5 @@ The class paper is **not licensed for redistribution** and is not included here.
 
 Mohammad Ahmadi
 [ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
+
+Personal hobby project, written for learning. For informational and educational purposes only. Use at your own risk.

@@ -23,6 +23,10 @@ blue-owl/regulating-private-credit/  The Case for Regulating Private Credit
 
 the-numb-market/                   The Numb Market (May 2026)
                                    ahmadiresearch.com/blog/numb-market/
+
+palantir-is-down/                  Palantir Is Down: What I Learned From a First
+                                   Mini Research (July 2026)
+                                   ahmadiresearch.com/blog/palantir-scorecard/
 ```
 
 More folders will be added as new research is published.
@@ -57,4 +61,4 @@ Mohammad Ahmadi
 - [ahmadiresearch.com](https://ahmadiresearch.com)
 - [LinkedIn](https://linkedin.com/in/mo-ahmadi-)
 
-*Nothing here is investment advice.*
+Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

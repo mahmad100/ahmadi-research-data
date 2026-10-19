@@ -108,3 +108,5 @@ Things worth toying with:
 
 Mohammad Ahmadi
 [ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
+
+Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

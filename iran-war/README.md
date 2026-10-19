@@ -39,3 +39,5 @@ jupyter notebook iran_war_charts.ipynb
 ```
 
 Charts save to `outputs/` (git-ignored; regenerate locally).
+
+Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.
