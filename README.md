@@ -1,6 +1,6 @@
 # Ahmadi Research — Data & Process
 
-Public companion to [ahmadiresearch.com](https://ahmadiresearch.com). Charts, notebooks,
+Public companion to my Ahmadi Research projects. Charts, notebooks,
 and data behind published research.
 
 ## Projects
@@ -8,25 +8,19 @@ and data behind published research.
 ```
 the-unraveling-guarantee/          The Unraveling Guarantee: Has the U.S. Lost Its
                                    Exorbitant Privilege? (February 2026)
-                                   ahmadiresearch.com/papers/the-unraveling-guarantee-feb2026.pdf
 
 iran-war/                          The Quiet Winners of the Iran War (March 2026)
-                                   ahmadiresearch.com/blog/iran-war/
 
 one-country-too-many-nations/      One Country, Too Many Nations: What America Got Wrong
                                    in Afghanistan (April 2026)
-                                   ahmadiresearch.com/blog/one-country-too-many-nations/
 
 blue-owl/regulating-private-credit/  The Case for Regulating Private Credit
                                      (April 2026)
-                                     ahmadiresearch.com/papers/regulating-private-credit-apr2026.pdf
 
 the-numb-market/                   The Numb Market (May 2026)
-                                   ahmadiresearch.com/blog/numb-market/
 
 palantir-is-down/                  Palantir Is Down: What I Learned From a First
                                    Mini Research (July 2026)
-                                   ahmadiresearch.com/blog/palantir-scorecard/
 ```
 
 More folders will be added as new research is published.
@@ -58,7 +52,6 @@ Each blog post links here once the analysis is published.
 ## Contact
 
 Mohammad Ahmadi
-- [ahmadiresearch.com](https://ahmadiresearch.com)
 - [LinkedIn](https://linkedin.com/in/mo-ahmadi-)
 
 Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

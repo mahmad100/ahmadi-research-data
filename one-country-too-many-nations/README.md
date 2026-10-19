@@ -1,7 +1,7 @@
 # One Country, Too Many Nations
 
 Reproducible data and code for the Ahmadi Research blog post
-**["One Country, Too Many Nations: What America Got Wrong in Afghanistan"](https://ahmadiresearch.com/blog/one-country-too-many-nations/)**.
+**"One Country, Too Many Nations: What America Got Wrong in Afghanistan"**.
 
 This package lets anyone regenerate every chart in the post from cited sources, change the
 assumptions, and rerun.
@@ -77,14 +77,13 @@ Things worth toying with:
 ## License
 
 - Code (notebook): MIT
-- Data tables and prose: CC-BY-4.0 — attribute Mohammad Ahmadi / Ahmadi Research and link back to
-  [the blog post](https://ahmadiresearch.com/blog/one-country-too-many-nations/).
+- Data tables and prose: CC-BY-4.0 — attribute Mohammad Ahmadi / Ahmadi Research.
 
 The class paper is **not licensed for redistribution** and is not included here.
 
 ## Author
 
 Mohammad Ahmadi
-[ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
+[GitHub](https://github.com/mahmad100)
 
 Personal hobby project, written for learning. For informational and educational purposes only. Use at your own risk.

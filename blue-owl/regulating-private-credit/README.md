@@ -4,7 +4,7 @@ Reproducible data and code for the Ahmadi Research deck
 **"The Case for Regulating Private Credit: Blue Owl, Broken Promises,
 and the $2.3 Trillion Gap"**
 
-- Deck: [ahmadiresearch.com/papers/regulating-private-credit-apr2026.pdf](https://ahmadiresearch.com/papers/regulating-private-credit-apr2026.pdf)
+- Deck: The Case for Regulating Private Credit (April 2026)
 - Author: Mohammad Ahmadi
 
 This package lets anyone regenerate every chart in the deck from cited sources,
@@ -107,6 +107,6 @@ Things worth toying with:
 ## Author
 
 Mohammad Ahmadi
-[ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
+[GitHub](https://github.com/mahmad100)
 
 Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

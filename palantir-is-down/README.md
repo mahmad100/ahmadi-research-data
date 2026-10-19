@@ -1,7 +1,7 @@
 # Palantir Is Down: What I Learned From a First Mini Research
 
 Reproducible code for the Ahmadi Research blog post
-**[Palantir Is Down: What I Learned From a First Mini Research](https://ahmadiresearch.com/blog/palantir-scorecard/)**.
+**Palantir Is Down: What I Learned From a First Mini Research**.
 
 The post revisits a September 2025 short call on Palantir (PLTR) priced at $171.43. This notebook
 regenerates every chart in the post from publicly available sources, with the data inline and the
@@ -58,7 +58,7 @@ Two data choices are open to substitution:
 
 The full numbered reference list is in the final cell of the notebook. Key sources:
 
-- The original deck: [Beyond the Buzz: Why Palantir's Valuation May Not Add Up](https://ahmadiresearch.com/papers/palantir-valuation.pdf) (Ahmadi Research, September 2025)
+- The original deck: Beyond the Buzz: Why Palantir's Valuation May Not Add Up (Ahmadi Research, September 2025)
 - Price history: [Macrotrends](https://www.macrotrends.net/stocks/charts/PLTR/palantir-technologies/stock-price-history)
 - Q1 2026 results: [Palantir 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1321655/000132165526000026/a2026q1ex991pressrelease.htm)
 - Valuation statistics and peers: [stockanalysis.com](https://stockanalysis.com/stocks/pltr/statistics/)
@@ -68,12 +68,11 @@ The full numbered reference list is in the final cell of the notebook. Key sourc
 ## License
 
 - Code (notebook): MIT
-- Data tables and prose: CC-BY-4.0, with attribution to Mohammad Ahmadi / Ahmadi Research and a
-  link back to [the blog post](https://ahmadiresearch.com/blog/palantir-scorecard/).
+- Data tables and prose: CC-BY-4.0, with attribution to Mohammad Ahmadi / Ahmadi Research.
 
 ## Author
 
 Mohammad Ahmadi
-[ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
+[GitHub](https://github.com/mahmad100)
 
 Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

@@ -1,7 +1,7 @@
 # The Numb Market
 
 Reproducible code for the Ahmadi Research blog post
-**[The Numb Market](https://ahmadiresearch.com/blog/numb-market/)**.
+**The Numb Market**.
 
 This notebook regenerates every chart in the post from publicly available primary sources, with
 the data inline and the full source list at the bottom of the notebook.
@@ -82,14 +82,13 @@ The full numbered reference list is in the final cell of the notebook. Key sourc
 ## License
 
 - Code (notebook): MIT
-- Data tables and prose: CC-BY-4.0, with attribution to Mohammad Ahmadi / Ahmadi Research and a
-  link back to [the blog post](https://ahmadiresearch.com/blog/numb-market/).
+- Data tables and prose: CC-BY-4.0, with attribution to Mohammad Ahmadi / Ahmadi Research.
 
 The source research report is **not licensed for redistribution** and is not included here.
 
 ## Author
 
 Mohammad Ahmadi
-[ahmadiresearch.com](https://ahmadiresearch.com) · [GitHub](https://github.com/mahmad100)
+[GitHub](https://github.com/mahmad100)
 
 Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.

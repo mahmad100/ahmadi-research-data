@@ -1,7 +1,6 @@
 # The Quiet Winners of the Iran War
 
 **Published:** March 2026
-**Blog post:** [ahmadiresearch.com/blog/iran-war/](https://ahmadiresearch.com/blog/iran-war/)
 
 ---
 

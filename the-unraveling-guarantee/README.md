@@ -3,7 +3,7 @@
 Reproducible data and code for the Ahmadi Research deck
 **"The Unraveling Guarantee: Has the U.S. Lost Its Exorbitant Privilege?"**
 
-- Deck: [ahmadiresearch.com/papers/the-unraveling-guarantee-feb2026.pdf](https://ahmadiresearch.com/papers/the-unraveling-guarantee-feb2026.pdf)
+- Deck: The Unraveling Guarantee (February 2026)
 - Author: Mohammad Ahmadi
 
 This package lets a reader regenerate every chart in the deck from cited
@@ -124,6 +124,6 @@ Things worth toying with:
 ## Author
 
 Mohammad Ahmadi
-[ahmadiresearch.com](https://ahmadiresearch.com) , [GitHub](https://github.com/mahmad100)
+[GitHub](https://github.com/mahmad100)
 
 Personal hobby project. For informational and educational purposes only, not investment advice. Model outputs are assumption-dependent. Use at your own risk.
