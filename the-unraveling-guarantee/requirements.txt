@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+requests
+jupyter
+# Both are needed so pandas.read_excel can parse whichever XLS dialect
+# FRED returns from the .xls fallback path used when the .csv endpoint stalls
+openpyxl
+xlrd
